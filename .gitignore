@@ -2,3 +2,5 @@
 .vscode/settings.json
 *.pyc
 notebooks/.ipynb_checkpoints/2019-08-08 - First notebook-checkpoint.ipynb
+notebooks/.ipynb_checkpoints/2019-08-08 - First notebook-checkpoint.ipynb
+*.ipynb
