@@ -1,5 +1,5 @@
-# fastml
-![](https://isg-one.com/images/default-source/default-album/multi-speed-delivery.tmb-th1190-446.jpg?sfvrsn=611bc331_0)
+# Cosmos
+![](https://www.sciencealert.com/images/2019-08/processed/stellar-1_1024.jpg)
 A ML library wrapper with the philosophy of fast.ai
 
 # Introduction
@@ -13,7 +13,7 @@ Yet there is no unified library allowing to do:
 - Performance evaluation
 
 ## Philosophy
-``fastml`` goal is to stand on the shoulder of giants and not reinvent the wheel everytime you are doing a simple analysis. Hence, it will wrap code and functionalities from state of the art python libraries in 2019: 
+``cosmos`` goal is to stand on the shoulder of giants and not reinvent the wheel everytime you are doing a simple analysis. Hence, it will wrap code and functionalities from state of the art python libraries in 2019: 
 - Scikit Learn mostly
 - NLP libraries (NLTK, SpaCy)
 - Plotly express and other visualisation libraries
